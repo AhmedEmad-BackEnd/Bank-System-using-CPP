@@ -1,0 +1,19 @@
+# Files and folders created by Visual Studio
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Build output folders
+[Bb]in/
+[Dd]ebug/
+[Rr]elease/
+x64/
+ARM/
+ARM64/
+
+# Other temporary files
+*.obj
+*.pdb
+*.ilk
+*.aps
